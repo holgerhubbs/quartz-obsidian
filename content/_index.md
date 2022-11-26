@@ -1,3 +1,3 @@
 Hello World (-; 
 
-[[Sub-page]]
+[[sub-page]]
