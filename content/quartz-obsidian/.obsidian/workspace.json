@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hello World.md",
+                "file": "index.html.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hello World.md",
+                "file": "index.html.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hello World.md",
+                "file": "index.html.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hello World.md",
+                "file": "index.html.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hello World.md"
+                "file": "index.html.md"
               }
             }
           }
@@ -149,9 +149,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "55d5c26671e9dd5a",
+  "active": "70a1732e78aed62b",
   "lastOpenFiles": [
     "10 Meta/Templates/Hugo.md",
-    "Hello World.md"
+    "index.html.md"
   ]
 }
